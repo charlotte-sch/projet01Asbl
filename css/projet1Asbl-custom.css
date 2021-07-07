@@ -1,0 +1,11 @@
+body{
+    width: 100%;
+}
+div{
+    margin: 20px;
+}
+h2, h3, h4, h5{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
